@@ -1,0 +1,18 @@
+node -v
+npm -v
+ng v
+
+ng new PrimeraApp
+
+ng serve --open
+ng serve -o
+
+ng generate component empleado
+ng g c empleado
+ng g c empleado -s -t
+
+npm install bootstrap --save
+
+npm i bootstrap jquery popper.js --save
+
+ng g s servicio-empleados
